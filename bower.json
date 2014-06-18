@@ -1,0 +1,21 @@
+{
+  "name": "angular-couch",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Dunnette <brian@dunnette.us>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_attachments/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "angular": "~1.2.18"
+  }
+}
